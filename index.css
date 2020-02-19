@@ -15,7 +15,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .hero-mobile-cointainer {
-    background: linear-gradient(rgba(3,69,112, 0.7),rgba(3,69,112, 0.7)), url(hero.jpg);
+    background: linear-gradient(rgba(3,69,112, 0.7),rgba(3,69,112, 0.7)), url(assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -59,7 +59,6 @@ body {
     font-weight: bold;
     font-size: 24px;
     line-height: 28px;
-    display: flex;
     align-items: center;
     text-align: center;
     border-radius: 5px;
@@ -105,15 +104,15 @@ body {
     margin: 16px 16.67%;
   }
 
-  .hivent{background: url(logo/c_hiventures.png);}
+  .hivent{background: url(assets/c_hiventures.png);}
 
-  .signa{background: url(logo/c_signa.png);}
+  .signa{background: url(assets/c_signa.png);}
 
-  .computrend{background: url(logo/c_computrend.png);}
+  .computrend{background: url(assets/c_computrend.png);}
 
-  .evrotrust{background: url(logo/c_evrotrust.png);}
+  .evrotrust{background: url(assets/c_evrotrust.png);}
 
-  .ordit{background: url(logo/c_ordit.png);}
+  .ordit{background: url(assets/c_ordit.png);}
 
   .trusted-partner-logo {
       height: 34px;
@@ -139,7 +138,7 @@ body {
       height: 560px;
   }
   .hero-image {
-      background: url(hero.jpg);
+      background: url(assets/hero.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center center;
@@ -250,20 +249,20 @@ body {
 
   .trusted-partner-logo:hover { transform: scale(1.1); }
 
-  .hivent{background: url(logo/g_hiventures.png);}
-  .hivent:hover { background: url(logo/c_hiventures.png);}
+  .hivent{background: url(assets/g_hiventures.png);}
+  .hivent:hover { background: url(assets/c_hiventures.png);}
 
-  .signa{background: url(logo/g_signa.png);}
-  .signa:hover { background: url(logo/c_signa.png);}
+  .signa{background: url(assets/g_signa.png);}
+  .signa:hover { background: url(assets/c_signa.png);}
 
-  .computrend{background: url(logo/g_computrend.png);}
-  .computrend:hover { background: url(logo/c_computrend.png);}
+  .computrend{background: url(assets/g_computrend.png);}
+  .computrend:hover { background: url(assets/c_computrend.png);}
 
-  .evrotrust{background: url(logo/g_evrotrust.png);}
-  .evrotrust:hover { background: url(logo/c_evrotrust.png);}
+  .evrotrust{background: url(assets/g_evrotrust.png);}
+  .evrotrust:hover { background: url(assets/c_evrotrust.png);}
 
-  .ordit{background: url(logo/g_ordit.png);}
-  .ordit:hover { background: url(logo/c_ordit.png);}
+  .ordit{background: url(assets/g_ordit.png);}
+  .ordit:hover { background: url(assets/c_ordit.png);}
 
   .trusted-partner-logo {
       height: 50px;
@@ -283,4 +282,3 @@ body {
   .hero-hide-desktop{
     display:none;
   }
-}
