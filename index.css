@@ -23,7 +23,7 @@ body {
   }
 
   .hero-title {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -40,7 +40,7 @@ body {
   }
 
   .hero-subtitle {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -54,7 +54,7 @@ body {
   }
 
   .hero-buttons {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -79,7 +79,7 @@ body {
   }
 
   .trusted-partners-title{
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -149,13 +149,11 @@ body {
 
   .hero-content {
       padding: 160px 10% 0;
-      min-width: 300px;
+      min-width: 370px;
       width: 25%;
       text-align: left;
       color: #1A5F8C;
-      font-family: Raleway;
-      font-style: normal;
-      font-weight: bolder;
+      font-family: 'Raleway', sans-serif;
   }
 
   .hero-title {
@@ -163,8 +161,10 @@ body {
     line-height: 53px;
     margin: 0;
     padding: 0;
-    width: 350px;
-    font-family: Raleway;
+    width: 370px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
   }
 
   .hero-mobile-divider{
@@ -177,7 +177,7 @@ body {
     font-weight: normal;
     margin: 0;
     padding: 0;
-    width: 350px;
+    width: 370px;
   }
 
   .hero-buttons-wrapper{
@@ -185,7 +185,7 @@ body {
   }
 
   .hero-buttons {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 17.5px;
@@ -230,7 +230,7 @@ body {
   .trusted-partners-title{
     color: #FA7268;
     text-align: left;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
