@@ -56,7 +56,7 @@ body {
   .hero-buttons {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 24px;
     line-height: 28px;
     display: flex;
@@ -149,7 +149,7 @@ body {
 
   .hero-content {
       padding: 160px 10% 0;
-      min-width: 370px;
+      min-width: 400px;
       width: 25%;
       text-align: left;
       color: #1A5F8C;
@@ -161,7 +161,7 @@ body {
     line-height: 53px;
     margin: 0;
     padding: 0;
-    width: 370px;
+    width: 400px;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -177,7 +177,7 @@ body {
     font-weight: normal;
     margin: 0;
     padding: 0;
-    width: 370px;
+    width: 400px;
   }
 
   .hero-buttons-wrapper{
